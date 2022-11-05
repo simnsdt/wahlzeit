@@ -7,7 +7,7 @@
         {
             "type": "java",
             "name": "Debug Local App",
-            "projectName": "Wahlzeit",
+            "projectName": "wahlzeit",
             "request": "attach",
             "hostName": "localhost",
             "port": 5005
